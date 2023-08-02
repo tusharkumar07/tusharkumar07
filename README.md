@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development Projects<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning React Native
+🔭 I’m currently working on Reactjs and Nodejs<br>👯 I’m looking to collaborate on MERN Stack Development<br>🌱 I’m currently learning React Native
 
 
 ## 🌐 Socials:
